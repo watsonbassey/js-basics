@@ -6,16 +6,26 @@ console.log(value)
 
 
 
-let first = 'Bassey';
-let last = 'Watson';
-let track = 'backend';
-let skills = 'javaScript, nodes-js';
-let color = 'black';
-let independence = 1960;
+let firstName = 'Bassey';
+console.log('my first name is ' + firstName);
 
-console.log(first)
-console.log(last)
-console.log(track)
-console.log(skills)
-console.log(color)
-console.log(independence)
+let lastName = 'Watson';
+console.log('my last name is ' + lastName);
+
+let track = 'backend';
+console.log('my track is ' + track);
+
+let skills = 'javaScript, nodes-js';
+console.log('my skills are ' + skills);
+
+let color = 'black';
+console.log('my favourite color is ' + color);
+
+let independence = 1960;
+console.log('Nigeria got her independence in ' + independence);
+
+
+
+
+
+
